@@ -1,5 +1,8 @@
-# DemandGen-X Clone - Modern B2B Tech Events Platform
+## Preview-
 
+
+
+# DemandGen-X Clone - Modern B2B Tech Events Platform
 A modern, dynamic, and conversion-focused marketing website built with Next.js, React, TypeScript, and Tailwind CSS. Inspired by DemandGen-X, this platform showcases cutting-edge design patterns and user experience optimizations for B2B lead generation.
 
 ## ✨ Features
